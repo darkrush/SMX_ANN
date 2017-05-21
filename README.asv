@@ -1,8 +1,0 @@
-all data is in the form of :
-pH, current, pds, Degradation rate
-
-|coded value  |  -1   |  -1   |   0   |   +1  |
-|-------------|-------|-------|-------|
-| pH          |   2   |   3   |   4   |
-| current(mA) |  10   |  15   |  20   |
-| pds(M)      |       |       |   4   |
